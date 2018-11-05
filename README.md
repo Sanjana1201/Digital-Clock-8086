@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a program simulating digital clock on [emu8086]() using 8086 Assembly.
+This is a program simulating digital clock on emu8086 using 8086 Assembly.
 
 ## Folder Structure
 
