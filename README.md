@@ -10,10 +10,11 @@ This is a program simulating digital clock on emu8086 using 8086 Assembly.
 
 ```
 .
-├── bin         # Executable files
-├── src         # Source files
-├── tools       # Some tools
-├── report.md   # Laboratory report
+├── bin               # Executable files
+├── src               # Source files
+├── tools             # Some tools
+├── Brief-Report.pdf  # Laboratory report
+├── Report.pdf        # Laboratory report
 └── ...
 ```
 
